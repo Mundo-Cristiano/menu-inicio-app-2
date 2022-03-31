@@ -1,5 +1,5 @@
-- Para el óptimo funcionamiento de la App Mundo Cristiano es necesario tener conexión a internet de alta velocidad.
+· Para el óptimo funcionamiento de la App Mundo Cristiano es necesario tener conexión a internet de alta velocidad.
 
-- Para Android 6.0 o superior La sección de 'Música Cristiana' y 'Radios Cristianas' requieren tener la pantalla encendida.
+· Para Android 6.0 o superior La sección de 'Música Cristiana' y 'Radios Cristianas' requieren tener la pantalla encendida.
 
-- Si desesas que aparezca contenido de tu autoría o si tienes alguna sugerencia escríbenos a 'mundocristiano.iaorg@gmail.com'
+· Si desesas que aparezca contenido de tu autoría o si tienes alguna sugerencia escríbenos a 'mundocristiano.iaorg@gmail.com'
